@@ -1,69 +1,102 @@
-<div align="center">
+# 🧑‍💻 Who Am I
 
-# YASHRAJ MANDLOI
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React.js+%7C+Next.js+Developer;Node.js+Backend+Developer;Building+Scalable+Web+Applications;2%2B+Years+of+Experience" />
+### 👨‍💻 Developer Info
 
-<br/>
+| 🏷️ Field | 🚀 Value |
+|----------|-----------|
+| 👤 Name | **Yashraj Mandloi** |
+| 💼 Role | **MERN Stack Developer** |
+| 📍 Location | **Indore, India 🇮🇳** |
+| ⏳ Experience | **2+ Years** |
+| 📧 Email | **yashmandloi32@gmail.com** |
+| 🚀 Status | **Available for Opportunities** |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashraj-mandloi-developer/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashmandloi32@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashrajmandloi30)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yashgurjar099)
+</td>
 
-<br/>
+<td width="50%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-# whoami
+# 🚀 Tech Profile
 
-```javascript
-const yash = {
-  name: "Yashraj Mandloi",
-  role: "MERN Stack Developer",
-  location: "Indore, India 🇮🇳",
-  experience: "2+ Years",
-  
-  frontend: [
-    "React.js",
-    "Next.js",
-    "JavaScript",
-    "TypeScript",
-    "Redux Toolkit",
-    "Tailwind CSS",
-    "Material UI",
-    "ShadCN"
-  ],
+<table>
+<tr>
+<td>
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "REST APIs",
-    "JWT Authentication"
-  ],
+### 🎨 Frontend
 
-  database: [
-    "MongoDB",
-    "MySQL"
-  ],
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-  devops: [
-    "Docker",
-    "CI/CD",
-    "Hostinger VPS",
-    "Coolify"
-  ],
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 
-  tools: [
-    "Git",
-    "GitHub",
-    "Postman",
-    "VS Code"
-  ],
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-  availableForWork: true
-};
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+</td>
+
+<td>
+
+### ⚙️ Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge)
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📋 Quick Facts
+
+🔥 Building Full Stack Applications
+
+🎯 Specialized in React.js & Next.js
+
+⚡ Experienced in Node.js & Express.js
+
+🗄️ MongoDB & MySQL Database Design
+
+☁️ Docker, CI/CD, VPS Deployment
+
+🚀 Hostinger VPS & Coolify Deployment
+
+💡 Clean Code & Scalable Architecture
+
+---
+
+# 🎯 What I Love Building
+
+🖥️ Admin Dashboards
+
+📚 Learning Platforms
+
+💼 CRM Systems
+
+🏥 Healthcare Applications
+
+📊 Data Management Systems
+
+🌐 Business Websites
+
+📱 Responsive Web Applications
