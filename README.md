@@ -10,7 +10,6 @@
 |----------|-----------|
 | 👤 Name | **Yashraj Mandloi** |
 | 💼 Role | **MERN Stack Developer** |
-| 📍 Location | **Indore, India 🇮🇳** |
 | ⏳ Experience | **2+ Years** |
 | 📧 Email | **yashmandloi32@gmail.com** |
 | 🚀 Status | **Available for Opportunities** |
