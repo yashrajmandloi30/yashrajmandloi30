@@ -134,7 +134,6 @@ I'm a passionate Full Stack Developer with **2+ years of experience** building s
 # 📈 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yashrajmandloi30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajmandloi30&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
