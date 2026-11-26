@@ -131,6 +131,33 @@ I'm a passionate Full Stack Developer with **2+ years of experience** building s
 
 ---
 
+# 📈 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yashrajmandloi30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajmandloi30&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📊 Commit Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajmandloi30&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashrajmandloi30&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+### 📅 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashrajmandloi30&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
 # 💼 Professional Experience
 
 ### Full Stack Developer — MindCoders
@@ -207,39 +234,6 @@ I'm a passionate Full Stack Developer with **2+ years of experience** building s
 | Page Load Improvement | 30% |
 | Deployment Time | Under 5 Minutes |
 | Dockerized Services | 4 |
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yashrajmandloi30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajmandloi30&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yashrajmandloi30&theme=tokyonight&hide_border=true" />
-</p>
-
-### 📊 Commit Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajmandloi30&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashrajmandloi30&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-### 📅 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashrajmandloi30&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
 
 ---
 
