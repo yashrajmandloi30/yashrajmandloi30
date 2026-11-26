@@ -143,18 +143,6 @@ I'm a passionate Full Stack Developer with **2+ years of experience** building s
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashrajmandloi30&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashrajmandloi30&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-### 📅 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashrajmandloi30&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
 ---
 
 # 💼 Professional Experience
